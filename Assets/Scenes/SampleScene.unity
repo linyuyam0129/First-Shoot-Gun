@@ -290,6 +290,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerCamera: {fileID: 963194227}
+  attackPoint: {fileID: 0}
+  pushForce: 50
+  Sphere: {fileID: 0}
 --- !u!1 &590770329
 GameObject:
   m_ObjectHideFlags: 0
@@ -794,7 +797,7 @@ GameObject:
   - component: {fileID: 1617609685}
   m_Layer: 6
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
