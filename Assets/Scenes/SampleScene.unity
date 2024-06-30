@@ -655,7 +655,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524344392}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 23.5307, y: 1.25, z: 18.4297}
+  m_LocalPosition: {x: 22.4, y: 1.48, z: 8.3}
   m_LocalScale: {x: 2.9214, y: 1, z: 2.5594}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -709,7 +709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetName: Player
-  minimunTraceDistance: 200
+  minimunTraceDistance: 55
 --- !u!1 &590770329
 GameObject:
   m_ObjectHideFlags: 0
